@@ -1,0 +1,6 @@
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\1ER PARCIAL\CODIGOS\Flota pesquera\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\1ER PARCIAL\CODIGOS\Flota pesquera\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\1ER PARCIAL\CODIGOS\Flota pesquera\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\1ER PARCIAL\CODIGOS\Flota pesquera\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\1ER PARCIAL\CODIGOS\Flota pesquera\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\1ER PARCIAL\CODIGOS\Flota pesquera\CapaDatos\obj\Debug\CapaDatos.pdb
