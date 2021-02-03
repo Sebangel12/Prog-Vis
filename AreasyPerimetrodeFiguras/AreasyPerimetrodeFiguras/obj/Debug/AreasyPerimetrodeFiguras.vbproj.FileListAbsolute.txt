@@ -1,0 +1,16 @@
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\AreasyPerimetrodeFiguras\AreasyPerimetrodeFiguras\bin\Debug\AreasyPerimetrodeFiguras.exe.config
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\AreasyPerimetrodeFiguras\AreasyPerimetrodeFiguras\bin\Debug\AreasyPerimetrodeFiguras.exe
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\AreasyPerimetrodeFiguras\AreasyPerimetrodeFiguras\bin\Debug\AreasyPerimetrodeFiguras.pdb
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\AreasyPerimetrodeFiguras\AreasyPerimetrodeFiguras\bin\Debug\AreasyPerimetrodeFiguras.xml
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\AreasyPerimetrodeFiguras\AreasyPerimetrodeFiguras\obj\Debug\AreasyPerimetrodeFiguras.vbprojAssemblyReference.cache
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\AreasyPerimetrodeFiguras\AreasyPerimetrodeFiguras\obj\Debug\AreasyPerimetrodeFiguras.FrmPresentacion.resources
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\AreasyPerimetrodeFiguras\AreasyPerimetrodeFiguras\obj\Debug\AreasyPerimetrodeFiguras.FrmMenu.resources
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\AreasyPerimetrodeFiguras\AreasyPerimetrodeFiguras\obj\Debug\AreasyPerimetrodeFiguras.FrmTriangulo.resources
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\AreasyPerimetrodeFiguras\AreasyPerimetrodeFiguras\obj\Debug\AreasyPerimetrodeFiguras.FrmRectangulo.resources
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\AreasyPerimetrodeFiguras\AreasyPerimetrodeFiguras\obj\Debug\AreasyPerimetrodeFiguras.FrmCirculo.resources
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\AreasyPerimetrodeFiguras\AreasyPerimetrodeFiguras\obj\Debug\AreasyPerimetrodeFiguras.Resources.resources
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\AreasyPerimetrodeFiguras\AreasyPerimetrodeFiguras\obj\Debug\AreasyPerimetrodeFiguras.vbproj.GenerateResource.cache
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\AreasyPerimetrodeFiguras\AreasyPerimetrodeFiguras\obj\Debug\AreasyPerimetrodeFiguras.vbproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\AreasyPerimetrodeFiguras\AreasyPerimetrodeFiguras\obj\Debug\AreasyPerimetrodeFiguras.exe
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\AreasyPerimetrodeFiguras\AreasyPerimetrodeFiguras\obj\Debug\AreasyPerimetrodeFiguras.xml
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\AreasyPerimetrodeFiguras\AreasyPerimetrodeFiguras\obj\Debug\AreasyPerimetrodeFiguras.pdb
