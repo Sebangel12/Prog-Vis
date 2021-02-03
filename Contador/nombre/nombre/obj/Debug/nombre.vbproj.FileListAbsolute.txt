@@ -1,0 +1,12 @@
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\nombre\nombre\bin\Debug\nombre.exe.config
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\nombre\nombre\bin\Debug\nombre.exe
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\nombre\nombre\bin\Debug\nombre.pdb
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\nombre\nombre\bin\Debug\nombre.xml
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\nombre\nombre\obj\Debug\nombre.vbprojAssemblyReference.cache
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\nombre\nombre\obj\Debug\nombre.Form1.resources
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\nombre\nombre\obj\Debug\nombre.Resources.resources
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\nombre\nombre\obj\Debug\nombre.vbproj.GenerateResource.cache
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\nombre\nombre\obj\Debug\nombre.vbproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\nombre\nombre\obj\Debug\nombre.exe
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\nombre\nombre\obj\Debug\nombre.xml
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\nombre\nombre\obj\Debug\nombre.pdb
