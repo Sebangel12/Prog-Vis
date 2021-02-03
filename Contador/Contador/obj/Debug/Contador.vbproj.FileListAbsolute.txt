@@ -1,0 +1,12 @@
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\Contador\Contador\obj\Debug\Contador.vbprojAssemblyReference.cache
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\Contador\Contador\obj\Debug\Contador.Form1.resources
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\Contador\Contador\obj\Debug\Contador.Resources.resources
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\Contador\Contador\obj\Debug\Contador.vbproj.GenerateResource.cache
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\Contador\Contador\obj\Debug\Contador.vbproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\Contador\Contador\bin\Debug\Contador.exe.config
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\Contador\Contador\bin\Debug\Contador.exe
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\Contador\Contador\bin\Debug\Contador.pdb
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\Contador\Contador\bin\Debug\Contador.xml
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\Contador\Contador\obj\Debug\Contador.exe
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\Contador\Contador\obj\Debug\Contador.xml
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\Contador\Contador\obj\Debug\Contador.pdb
